@@ -1,4 +1,8 @@
-<h1 align="center" font-size="50px"> <b>Pr0fil3R</b> </h1>
+<h1 align="center" font-size="50px"> <b>Pr0fil3R</b> </h1>  
+<p align="center">
+  <img width="600px" height="320px" style="display: block; margin-left: auto; margin-right: auto;" src="GIS.gif"/>
+</p>
+
 
 <br/>
 <details>
@@ -17,6 +21,13 @@
 <img alt="python" align="left" src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=blue&logoSize=auto" style="padding-right:10px;"/>
 </details>
 <br/>
+<details>
+  <summary>Frameworks :gear:</summary>
+    <img alt="Docker" align="left" src="https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker&logoColor=white&logoSize=auto&labelColor=blue&color=blue" style="padding-right:10px;"/>
+  <img alt="Shell" align="left" src="https://img.shields.io/badge/Shell-white?style=for-the-badge&logo=Shell&logoColor=white&logoSize=auto&labelColor=grey&color=grey" style="padding-right:10px;"/>
+  <img alt="Bash" align="left" src="https://img.shields.io/badge/Bash-white?style=for-the-badge&logo=gnubash&logoColor=white&logoSize=auto&labelColor=grey&color=grey" style="padding-right:10px;"/>
+</details>
+<br/>
 <details >
 <summary>IDE :gear:</summary>
 <img align="left" alt="VSCodium" src="https://img.shields.io/badge/VSCodium-blueviolet?style=for-the-badge&logo=VSCodium&logoColor=white"/>
@@ -28,5 +39,5 @@
 </details>
 
 <p align="center">
-  <img width="600px" height="320px" style="display: block; margin-left: auto; margin-right: auto;" src="GIS.gif"/>
+  <img width="150px" height="150px" style="display: block; margin-left: auto; margin-right: auto;" src="tenor.gif"/>
 </p>
